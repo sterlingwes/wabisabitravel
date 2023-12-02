@@ -13,3 +13,5 @@ Then find & replace some issues with mangled jpg / jpeg image extensions in resp
 ## Deploying
 
 `git subtree split --branch gh-pages --prefix wabisabitravel.com/`
+
+then `git checkout gh-pages && git push`
